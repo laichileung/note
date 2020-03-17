@@ -94,3 +94,5 @@ Redis 提供了 RDB 和 AOF 两种持久化方式，RDB 是把内存中的数据
 
 ![redis](redis.png)
 
+# 分库
+- 一致性hash https://zhuanlan.zhihu.com/p/34985026
